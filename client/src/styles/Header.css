@@ -1,0 +1,19 @@
+body{
+    font-family: Optima, sans-serif;
+}
+nav{
+    box-shadow: 0 0 5px;
+}
+a{
+    cursor: pointer;
+}
+.bg-green{
+    background-color: rgba(143, 188, 143, 0.85);
+}
+.menu{
+    padding-left: 2%;
+}
+.activeLink{
+    text-decoration: underline wavy rgba(101, 101, 164, 0.5);
+    color: #d2f3d2;
+}

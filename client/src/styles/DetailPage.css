@@ -1,0 +1,24 @@
+.icon{
+    width: 7%;
+    height: 7%;
+    padding-right: 4%;
+}
+.detailBook{
+    padding-top: 2%;
+    color: #344f45;
+    padding-left: 10%;
+}
+.text-opin{
+    max-width: 100%;
+    padding-right: 10%;
+}
+#opinion{
+    padding-top: 3%;
+}
+.i-area{
+padding-top: 5%;
+}
+
+#chtitle, #chauthor, #chmyopinion{
+
+}

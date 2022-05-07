@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://Polina:userp5678@cluster0.muipw.mongodb.net/Library?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}

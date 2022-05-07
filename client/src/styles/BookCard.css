@@ -1,0 +1,16 @@
+.bookcover{
+    border-radius: 5px;
+    border: solid 1px rgba(76, 96, 76, 0.49);
+    color: dimgray;
+}
+
+.authorname{
+    color: dimgray;
+}
+.authorname:hover{
+    color: #969393;
+}
+p{
+    padding-top: 2%;
+    color: dimgray;
+}
